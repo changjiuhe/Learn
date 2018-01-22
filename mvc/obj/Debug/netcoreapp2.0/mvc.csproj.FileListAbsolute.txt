@@ -1,0 +1,10 @@
+/Users/hechangjiu/Documents/github/Learn/mvc/bin/Debug/netcoreapp2.0/mvc.deps.json
+/Users/hechangjiu/Documents/github/Learn/mvc/bin/Debug/netcoreapp2.0/mvc.runtimeconfig.json
+/Users/hechangjiu/Documents/github/Learn/mvc/bin/Debug/netcoreapp2.0/mvc.runtimeconfig.dev.json
+/Users/hechangjiu/Documents/github/Learn/mvc/bin/Debug/netcoreapp2.0/mvc.dll
+/Users/hechangjiu/Documents/github/Learn/mvc/bin/Debug/netcoreapp2.0/mvc.pdb
+/Users/hechangjiu/Documents/github/Learn/mvc/obj/Debug/netcoreapp2.0/mvc.csproj.CoreCompileInputs.cache
+/Users/hechangjiu/Documents/github/Learn/mvc/obj/Debug/netcoreapp2.0/mvc.AssemblyInfoInputs.cache
+/Users/hechangjiu/Documents/github/Learn/mvc/obj/Debug/netcoreapp2.0/mvc.AssemblyInfo.cs
+/Users/hechangjiu/Documents/github/Learn/mvc/obj/Debug/netcoreapp2.0/mvc.dll
+/Users/hechangjiu/Documents/github/Learn/mvc/obj/Debug/netcoreapp2.0/mvc.pdb
